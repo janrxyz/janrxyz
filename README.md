@@ -6,7 +6,7 @@ Welcome to my Github profile. You can find more information about me on my [Link
 - 💻 Work: Junior Full Stack Developer at TelematiQs B.V.
 - 📯 E-mail: [janrtvld](mailto:rtvldjan@gmail.com)
 - 📋 Web: janrtvld.nl
-- 📋 Linkedin: [View my profile](https://www.linkedin.com/in/jan-rietveld/)
+- 📋 Linkedin: <a href="https://www.linkedin.com/in/jan-rietveld/" target="_blank">View my profile</a>
 
 ## Main Experience
 - HTML/CSS/JS
